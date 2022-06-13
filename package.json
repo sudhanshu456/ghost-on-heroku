@@ -16,7 +16,7 @@
     "ghost": "^5.2.2",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.2.3",
-    "ghost-webdav-storage-adapter": "^0.3.5",
+    "ghost-webdav-storage-adapter": "^0.4.1",
     "london": "github:tryghost/london#1.0.0",
     "massively": "github:tryghost/massively#v1.1.0",
     "mysql": "^2.18.1",
